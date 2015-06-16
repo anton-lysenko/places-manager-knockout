@@ -6653,6 +6653,9 @@ textarea {
   /* Support for IE. */
   font-feature-settings: 'liga';
 }
+.material-icons:hover {
+  color: #02a8f3;
+}
 header {
   height: 50px;
   text-align: left;
